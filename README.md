@@ -13,3 +13,5 @@ Code features:
 Here is the link to the code in Google Colab: https://colab.research.google.com/drive/16w6UZVorwPBOchOjgTvmOth4we-bU5ng?usp=drive_link
 
 Here is Canva link for additional explanation: https://www.canva.com/design/DAGBp0Dv1Ck/VIrl-gMdhq1bJpma63ZZpA/edit?utm_content=DAGBp0Dv1Ck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (Bahasa)
+
+The raw dataset is called corn_data.csv and has been uploaded in this repository.
