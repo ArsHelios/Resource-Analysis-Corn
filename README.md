@@ -1,6 +1,6 @@
 # Resource-Analysis-Corn
 
-![Alt text]([https://github.com/ArsHelios/Resource-Analysis-Corn/blob/main/corn%20field.jpeg])
+![Alt text](https://github.com/ArsHelios/Resource-Analysis-Corn/blob/main/corn%20field.jpeg)
 
 The Resource Analysis of Corn Yield project is conducted to fulfill the final assignment for the Data Science Bootcamp by GSB in collaboration with Dibimbing.id. This project focuses on analyzing various environmental and resource-based factors influencing corn yield. The primary objective is to identify which features have the greatest impact on corn yield, allowing for more informed decisions in agricultural planning and resource allocation.
 
